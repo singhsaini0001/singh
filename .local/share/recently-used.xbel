@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/hestabit/Downloads/teams_1.5.00.23861_amd64.deb" added="2022-11-01T09:39:54.900438Z" modified="2022-11-01T09:39:54.900444Z" visited="2022-11-01T09:39:54.900439Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-11-01T09:39:54.900442Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hestabit/Downloads/_.google.com" added="2022-11-01T10:21:35.084568Z" modified="2022-11-01T10:21:35.332370Z" visited="2022-11-01T10:21:35.084569Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;gio open %u&apos;" modified="2022-11-01T10:21:35.332368Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hestabit/Downloads/google-com.pem" added="2022-11-01T10:22:43.085777Z" modified="2022-11-01T10:22:43.331689Z" visited="2022-11-01T10:22:43.085779Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;gio open %u&apos;" modified="2022-11-01T10:22:43.331687Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hestabit/Downloads/firefox-106.0.3.tar.bz2" added="2022-11-01T10:32:32.209128Z" modified="2022-11-01T11:36:45.527010Z" visited="2022-11-01T10:32:32.209129Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bzip-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-11-01T10:32:32.209131Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2022-11-01T11:36:45.509831Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2022-11-01T11:36:45.527006Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hestabit/Downloads/Certificate%20for%20Appliance_Certificate_eEPIdQ3V0HMsXTQ.html" added="2022-11-01T11:05:33.926137Z" modified="2022-11-01T11:05:34.175566Z" visited="2022-11-01T11:05:33.926139Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2022-11-01T11:05:33.926143Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2022-11-01T11:05:34.175561Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hestabit/Downloads/Certificate%20for%20.google.com" added="2022-11-01T11:07:53.822845Z" modified="2022-11-01T11:07:54.072886Z" visited="2022-11-01T11:07:53.822846Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2022-11-01T11:07:53.822849Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2022-11-01T11:07:54.072884Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hestabit/Downloads/cr.html" added="2022-11-01T11:30:34.902667Z" modified="2022-11-01T11:35:57.748328Z" visited="2022-11-01T11:30:34.902669Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2022-11-01T11:35:57.722009Z" count="5"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2022-11-01T11:35:57.748325Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hestabit/Downloads/Certificate%20for%20.googleabc.com" added="2022-11-01T11:48:10.801463Z" modified="2022-11-01T11:48:39.196026Z" visited="2022-11-01T11:48:10.801464Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2022-11-01T11:48:39.196022Z" count="2"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2022-11-01T11:48:39.170421Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hestabit/Downloads/*_google_com.crt" added="2022-11-01T11:52:38.712049Z" modified="2022-11-01T11:52:50.972710Z" visited="2022-11-01T11:52:38.712050Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pkix-cert"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2022-11-01T11:52:50.972707Z" count="2"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2022-11-01T11:52:50.949817Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hestabit/Downloads/GTSRootR1.crt" added="2022-11-01T11:54:02.428172Z" modified="2022-11-01T11:55:54.455769Z" visited="2022-11-01T11:54:02.428173Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pkix-cert"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2022-11-01T11:55:54.455766Z" count="2"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2022-11-01T11:55:54.430490Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hestabit/Downloads/GTSRootR2.crt" added="2022-11-01T11:54:08.113027Z" modified="2022-11-01T11:54:08.362287Z" visited="2022-11-01T11:54:08.113028Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2022-11-01T11:54:08.113033Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2022-11-01T11:54:08.362285Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hestabit/Downloads/GTSRootR3.crt" added="2022-11-01T11:54:15.085547Z" modified="2022-11-01T11:54:15.336067Z" visited="2022-11-01T11:54:15.085548Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2022-11-01T11:54:15.085550Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2022-11-01T11:54:15.336062Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hestabit/Downloads/GTSRootR4.crt" added="2022-11-01T11:54:19.410609Z" modified="2022-11-01T11:54:19.660125Z" visited="2022-11-01T11:54:19.410610Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2022-11-01T11:54:19.410613Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2022-11-01T11:54:19.660120Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hestabit/Downloads/MicrosoftECCRootCertificateAuthority2017.crt" added="2022-11-01T11:54:31.828501Z" modified="2022-11-01T11:54:32.079018Z" visited="2022-11-01T11:54:31.828502Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2022-11-01T11:54:31.828506Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2022-11-01T11:54:32.079012Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

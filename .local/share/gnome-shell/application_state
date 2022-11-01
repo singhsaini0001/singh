@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gcr-viewer.desktop" score="4" last-seen="1667295613"/>
+    <application id="snap-store_ubuntu-software.desktop" score="52" last-seen="1667297888"/>
+    <application id="org.gnome.Nautilus.desktop" score="1" last-seen="1667301515"/>
+    <application id="gnome-initial-setup.desktop" score="5" last-seen="1667288613"/>
+    <application id="firefox_firefox.desktop" score="1313" last-seen="1667306569"/>
+    <application id="org.gnome.Terminal.desktop" score="444" last-seen="1667306564"/>
+    <application id="software-properties-gtk.desktop" score="0" last-seen="1667295581"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="0" last-seen="1667305592"/>
+    <application id="org.gnome.FileRoller.desktop" score="11" last-seen="1667298795"/>
+    <application id="teams_teams.desktop" score="23" last-seen="1667303919"/>
+    <application id="update-manager.desktop" score="2" last-seen="1667290817"/>
+    <application id="nm-connection-editor.desktop" score="0" last-seen="1667295489"/>
+    <application id="opera.desktop" score="59" last-seen="1667303226"/>
+  </context>
+</application-state>

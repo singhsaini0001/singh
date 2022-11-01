@@ -1,0 +1,10 @@
+Error while parsing hooks JSON. Error: ENOENT: no such file or directory, open '/home/hestabit/snap/teams/8/.config/Microsoft/Microsoft Teams/hooks.json'
+(node:31502) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+
+(teams:31502): Gtk-WARNING **: 17:26:24.280: Theme parsing error: gtk.css:1422:23: 'font-feature-settings' is not a valid property name
+
+(teams:31502): Gtk-WARNING **: 17:26:24.285: Theme parsing error: gtk.css:3308:25: 'font-feature-settings' is not a valid property name
+
+(teams:31502): Gtk-WARNING **: 17:26:24.286: Theme parsing error: gtk.css:3770:23: 'font-feature-settings' is not a valid property name
+(node:31502) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 ecsSettingsUpdated listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+(node:31502) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 appInitialized listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit

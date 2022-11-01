@@ -1,0 +1,5 @@
+2022/11/01-17:26:24.648 7b28 Reusing MANIFEST /home/hestabit/snap/teams/8/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2022/11/01-17:26:24.650 7b28 Recovering log #3
+2022/11/01-17:26:24.654 7b28 Level-0 table #3: started
+2022/11/01-17:26:24.663 7b28 Level-0 table #3: 388439 bytes OK
+2022/11/01-17:26:24.669 7b28 Delete type=0 #3

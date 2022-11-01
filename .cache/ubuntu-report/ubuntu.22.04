@@ -1,0 +1,67 @@
+{
+  "Version": "22.04",
+  "OEM": {
+    "Vendor": "Hewlett-Packard",
+    "Product": "HP EliteBook 840 G2",
+    "Family": "103C_5336AN G=N L=BUS B=HP S=ELI"
+  },
+  "BIOS": {
+    "Vendor": "Hewlett-Packard",
+    "Version": "M71 Ver. 01.08"
+  },
+  "Arch": "amd64",
+  "HwCap": "x86-64-v3",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "1616"
+    }
+  ],
+  "RAM": 12.1,
+  "Disks": [
+    256.1
+  ],
+  "Partitions": [
+    244.5,
+    0.5
+  ],
+  "Screens": [
+    {
+      "Size": "310mmx170mm",
+      "Resolution": "1600x900",
+      "Frequency": "59.95"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "wayland"
+  },
+  "Language": "en_IN",
+  "Timezone": "Asia/Kolkata",
+  "Install": {
+    "Media": "Ubuntu 22.04.1 LTS \"Jammy Jellyfish\" - Release amd64 (20220809.1)\n",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "reinstall_partition",
+    "DownloadUpdates": false,
+    "Language": "en",
+    "Minimal": false,
+    "RestrictedAddons": true,
+    "Stages": {
+      "0": "language",
+      "1": "language",
+      "6": "console_setup",
+      "13": "wireless",
+      "26": "prepare",
+      "130": "partman",
+      "136": "start_install",
+      "142": "timezone",
+      "148": "usersetup",
+      "192": "user_done",
+      "564": "done"
+    }
+  }
+}
